@@ -10,7 +10,7 @@
 <dict>
 <key>kind</key>
 <string>software-package</string>
-<key>https://github.com/lei2008/oa/blob/master/service.ipa</key>
+<key>https://raw.githubusercontent.com/lei2008/oa/master/service.ipa</key>
 <string></string>
 </dict>
 </array>
